@@ -26,6 +26,7 @@ body{
     display: flex;
     justify-content: space-between;
     width: 232px;
+    color:#000;	
 }
 .item{
     width: 45px;
